@@ -50,7 +50,7 @@ convert(varchar(10),b.FHATT,103),case when b.FHATT='1900/01/01' then c.FECEM els
 --order by convert(int,a.IDORD)
 order by FHATT
 ```
-![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/BI%20Measures.jpg)
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/BI%20Measures.jpg arrelar esta imagen)
 &nbsp;<br>
 
 After I had the raw data, I started designing and creating the final dashboard. 
