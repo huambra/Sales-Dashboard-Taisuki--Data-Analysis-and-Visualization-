@@ -55,7 +55,7 @@ order by FHATT
 
 After I had the raw data, I started designing and creating the final dashboard. 
 1. first version
-![Alt text](../../../../../../../../https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/first_version_page1.jpg)
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/first_version_page1.jpg)
 ![Alt text](../../../../../../../../C:/Users/luisr/Documents/My%20life/Personal%20Brand/Projects/Sales%20Dashboard%20Taisuki%20(Data%20Analysis%20and%20Visualization)/first_version_page2.jpg)
 ![Alt text](../../../../../../../../C:/Users/luisr/Documents/My%20life/Personal%20Brand/Projects/Sales%20Dashboard%20Taisuki%20(Data%20Analysis%20and%20Visualization)/first_version_page3.jpg)
 
