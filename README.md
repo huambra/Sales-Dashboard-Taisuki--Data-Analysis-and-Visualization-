@@ -3,7 +3,7 @@
 &nbsp;<br>
 &nbsp;<br>
 
-![Alt text](../../../../../../../../C:/Users/luisr/Documents/My%20life/Personal%20Brand/Projects/Sales%20Dashboard%20Taisuki%20(Data%20Analysis%20and%20Visualization)/taisuki-logo.png)
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/taisuki-logo.png)
 
 
 ## Table of Contents
@@ -50,16 +50,18 @@ convert(varchar(10),b.FHATT,103),case when b.FHATT='1900/01/01' then c.FECEM els
 --order by convert(int,a.IDORD)
 order by FHATT
 ```
-![Alt text](../../../../../../../../C:/Users/luisr/Documents/My%20life/Personal%20Brand/Projects/Sales%20Dashboard%20Taisuki%20(Data%20Analysis%20and%20Visualization)/BI%20Measures.jpg)
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/BI%20Measures.jpg)
 &nbsp;<br>
 
 After I had the raw data, I started designing and creating the final dashboard. 
 1. first version
-![Alt text](../../../../../../../../C:/Users/luisr/Documents/My%20life/Personal%20Brand/Projects/Sales%20Dashboard%20Taisuki%20(Data%20Analysis%20and%20Visualization)/first_version_page1.jpg)
-![Alt text](../../../../../../../../C:/Users/luisr/Documents/My%20life/Personal%20Brand/Projects/Sales%20Dashboard%20Taisuki%20(Data%20Analysis%20and%20Visualization)/first_version_page2.jpg)
-![Alt text](../../../../../../../../C:/Users/luisr/Documents/My%20life/Personal%20Brand/Projects/Sales%20Dashboard%20Taisuki%20(Data%20Analysis%20and%20Visualization)/first_version_page3.jpg)
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/first_version_page1.jpg)
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/first_version_page2.jpg)
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/first_version_page3.jpg)
 
 2. final version
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/final_version.jpg)
+
 
 Finally, I presentented the dashboard to the shareholder and it was decided to cut 2 hours from Tuesdays and Fridays where I found that the restaurant was not even selling to the point of break even.
 
