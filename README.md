@@ -5,15 +5,13 @@
 
 ![Alt text](../../../../../../../../C:/Users/luisr/Documents/My%20life/Personal%20Brand/Projects/Sales%20Dashboard%20Taisuki%20(Data%20Analysis%20and%20Visualization)/taisuki-logo.png)
 
+
 ## Table of Contents
 
-- [Taisuki-Sales-Dashboard](#taisuki-sales-dashboard)
-    - [Data Analysis and Visualization](#data-analysis-and-visualization)
-  - [Table of Contents](#table-of-contents)
-  - [Project Description](#project-description)
-  - [Action](#action)
-  - [Results](#results)
-
+- [Project Description](#project-description)
+- [Action](#action)
+- [Results](#results)
+  
 ## Project Description
 Dashboards are an interactive way to view at a glance how a project or company is performing. In the restaurant -Taisuki Taiyaki- they had the problem that, although they were storing data, they did not have a functional dashboard for decision making. I was in charge of developing a sales dashboard in order to understand the restaurant's peak hours, so that they can reschedule the opening hours.
 
