@@ -50,7 +50,7 @@ convert(varchar(10),b.FHATT,103),case when b.FHATT='1900/01/01' then c.FECEM els
 --order by convert(int,a.IDORD)
 order by FHATT
 ```
-![Alt text](/BI%20Measures.jpg arrelar esta imagen)
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/BI%20Measures.jpg)
 &nbsp;<br>
 
 After I had the raw data, I started designing and creating the final dashboard. 
@@ -60,6 +60,8 @@ After I had the raw data, I started designing and creating the final dashboard.
 ![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/first_version_page3.jpg)
 
 2. final version
+![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/final_version.jpg)
+
 
 Finally, I presentented the dashboard to the shareholder and it was decided to cut 2 hours from Tuesdays and Fridays where I found that the restaurant was not even selling to the point of break even.
 
